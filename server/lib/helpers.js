@@ -190,7 +190,7 @@ module.exports.getSafestRoute = function(redisKey, googleQueryString, callback) 
 	        const bestRoute = getMinimum(scores)
 	        safestRoute.url = createShareableURL(bestRoute.waypoints)
 	        safestRoute.waypoints = createDrawableWaypoints(bestRoute.waypoints)
-	        shortenURL(safestRoute.shareableURL, function(shortURL) {
+	        shortenURL(safestRoute.url, function(shortURL) {
 	        	safestRoute.shortURL = shortURL;
 	        	const redisValue = JSON.stringify(safestRoute);
 	        	client.set(redisKey, redisValue); 
