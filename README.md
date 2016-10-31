@@ -3,7 +3,6 @@
 By crunching real time crime stats, Safe Hippo can tell you the least risky route home.
 Go to (https://safehippo.com/)
 
-
 ## Built With
 
 * [Angular](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -20,8 +19,8 @@ Go to (https://safehippo.com/)
 ## Authors
 
 * **Bianca Subion** - (https://github.com/biancasubion)
-* **Sam Henderson** -
-* **Guy Thomas** -
-* **David Minehan** -
+* **Sam Henderson** - (https://github.com/shenders)
+* **Guy Thomas** - (https://github.com/stolemyusername)
+* **David Minehan** - (https://github.com/)
 
 
