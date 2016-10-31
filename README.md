@@ -5,10 +5,10 @@ Go to (https://safehippo.com/)
 
 ## Built With
 
-* [Angular](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [MongoDB](https://maven.apache.org/) - Dependency Management
-* [Redis](http://redis.io/) - Used to generate RSS Feeds
-* [Node] (https://nodejs.org/en/)
+* [Angular](http://www.dropwizard.io/1.0.2/docs/) - The front-end framework used
+* [MongoDB](https://maven.apache.org/) - Database used
+* [Redis](http://redis.io/) - Cache used
+* [Node] (https://nodejs.org/en/) - Server
 
 ## Deployment
 * [nginx](https://www.nginx.com/resources/wiki/)
